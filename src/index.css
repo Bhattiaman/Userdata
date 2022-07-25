@@ -1,0 +1,26 @@
+.App{
+  font-family: sans-serif;
+  text-align: center;
+}
+h1{
+  color: blue;
+}
+button{
+  border-radius: 225px;
+  border-color: blue;
+  background-color: gray;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+body{
+  background-color: oldlace;
+}
+.App ul li{
+  color: blue;
+}
+button:hover{
+  background-color: rgb(77, 254, 2);
+  font-size: 25px;
+}
